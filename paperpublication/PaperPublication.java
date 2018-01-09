@@ -1,5 +1,5 @@
 /**
- * Xi Chen 27276605 & Xin Sun 40038821
+ * Xin Sun 40038821
  * COMP249
  * Assignment #2
  * Due Date 10/13/2017
