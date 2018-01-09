@@ -1,9 +1,4 @@
-/**
- * Xi Chen 27276605 & Xin Sun 40038821
- * COMP249
- * Assignment #2
- * Due Date 10/13/2017
- * 
+/*
  * Program introduction: A class for Magazine with 3 constructors and mutators and accessers.
  * Overriding equals and toString methods.
  * Appropriate access rights
