@@ -1,13 +1,6 @@
-/**
- * Xi Chen 27276605 & Xin Sun 40038821
- * COMP249
- * Assignment #2
- * Due Date 10/13/2017
- * 
+/*
  * Program introduction: This is a program to compare difference paper publications
  * and get the book has the least number of pages and the one that has the most number of pages.
- *
- *
  */
 package bookstore;
 
